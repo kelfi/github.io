@@ -1,0 +1,10 @@
+title: My Awesome Site
+description: A site about awesome things.
+author: Your Name
+email: your-email@example.com
+url: "https://yourusername.github.io"
+baseurl: "" # Use "/" if hosting in a subdirectory
+theme: minima
+markdown: kramdown
+permalink: pretty
+
